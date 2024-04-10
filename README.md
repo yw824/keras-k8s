@@ -5,3 +5,13 @@
 ```
 conda install --yes --file requirements.txt
 ```
+
+## 환경 - 모두 pip로 설치 
+- Windows 10
+- Conda Env 
+- Python 3.9
+- nltk
+- sklearn
+- opencv-python 
+- gensim 
+- tensorflow
