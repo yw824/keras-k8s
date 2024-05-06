@@ -15,3 +15,8 @@ conda install --yes --file requirements.txt
 - opencv-python 
 - gensim 
 - tensorflow
+
+### 중간에 패키지 버전 호환성 문제가 있어 
+- Docker tensorflow 환경 구축 
+- https://wikidocs.net/209146
+- https://datanavigator.tistory.com/70
